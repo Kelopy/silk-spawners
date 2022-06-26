@@ -1,0 +1,5 @@
+name: SilkSpawners
+version: '${project.version}'
+main: me.kelopy.silkspawners.SilkSpawners
+authors: [ Kelopy ]
+description: Ability to break spawners with silk touch enchantment
